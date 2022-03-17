@@ -13,3 +13,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MabianePolniak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/mabianepolniak/)
 [![Instagram Badge](https://img.shields.io/badge/-mabiiak-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mabiiak/)](https://www.instagram.com/mabiiak/)
 [![Gmail Badge](https://img.shields.io/badge/-mabiane.polniak@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabiane.polniak@gmail.com)](mailto:mabiane.polniak@gmail.com)
+ ![Profile views](https://gpvc.arturio.dev/mabiiak?v=3)
