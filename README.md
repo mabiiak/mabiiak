@@ -1,7 +1,7 @@
 ### Olá, eu sou a Mabi
 #### Sou Desenvolvedora Front-end, moro em Curitiba.
 ---
-<p> :green_heart: Sou Estudante de desenvolvimento Web na [Trybe](https://www.betrybe.com/)</p>
+ :green_heart: Sou Estudante de desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 <p> :computer: Atualmente estou estudando Back-end </p>
 <p> :speech_balloon: Trabalho com JavaScript e React </p>
 <p> :sparkles: Gosto de gatos e faço crochê </p>
