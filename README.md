@@ -1,19 +1,16 @@
-## Olá, eu sou a Mabi
-#### Desenvolvedora Full-stack.
----
+## Olá, eu sou a Mabi!
+### Desenvolvedora Full-stack.
+
 Sou Estudante de desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 Já tendo concluido os módulos de fundamentos, front-end, back-end e estudando atualmente ciencias da computação.
 
-<p> Trabalho com JavaScript, TypeScript, e React </p>
-
  <p align="left">
    <a href="https://github.com/mabiiak">
-     <img src="https://github-readme-stats.vercel.app/api?username=mabiiak&hide_border=true&show_icons=true" width="500px" alt="edisonlee55's github stats">
+     <img src="https://github-readme-stats.vercel.app/api?username=mabiiak&hide_border=true&show_icons=true" width="450px" alt="edisonlee55's github stats">
    </a>
  </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabiiak&layout=compact&hide_border=true)
-
 ---
 
 ### Contato
