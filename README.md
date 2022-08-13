@@ -1,5 +1,5 @@
 ## Olá, eu sou a Mabi!
-### Desenvolvedora Full-stack.
+### Desenvolvedora Full-Stack.
 
 Sou Estudante de desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 Já tendo concluido os módulos de fundamentos, front-end, back-end e estudando atualmente ciencias da computação.
