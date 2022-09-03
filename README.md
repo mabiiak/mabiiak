@@ -11,7 +11,7 @@
 
 <br />
 
-[![My Skills](https://skills.thijs.gg/icons?i=spam,span,html,css,javascript,react,nodejs,express,docker,mysql,typescript,mongo,python&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=spam,spam,span,html,css,javascript,react,nodejs,express,docker,mysql,typescript,mongo,python&theme=light)](https://skills.thijs.gg)
 
 ----
  <p>
