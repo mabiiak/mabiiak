@@ -3,8 +3,7 @@
 <h3> Desenvolvedora Full-Stack.</h3>
 
 <p>
- Sou uma Desenvolvedora Full-Stack, apaixonada pelo front.<br />
- Atualmente estou estudando Desenvolvimento Web na Trybe, onde estudei algumas stacks como:
+ Sou uma Desenvolvedora Full-Stack, apaixonada pelo front.
 </p>
 
 <br />
