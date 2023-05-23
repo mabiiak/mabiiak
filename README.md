@@ -2,10 +2,6 @@
 
 <h3> Desenvolvedora Full-Stack.</h3>
 
-<p>
- Sou uma Desenvolvedora Full-Stack, apaixonada pelo front.
-</p>
-
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-MabianePolniak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/mabianepolniak/)
