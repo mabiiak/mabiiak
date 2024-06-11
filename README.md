@@ -18,5 +18,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabiiak&layout=compact&hide_border=true)
 
 <br />
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react,nodejs,express,docker,mysql,typescript,mongo&theme=light)](https://skills.thijs.gg)
